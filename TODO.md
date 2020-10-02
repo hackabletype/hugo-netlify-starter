@@ -1,6 +1,6 @@
 # CNCF Hugo Starter Checklist
 
-## Website Guidelines
+## CNCF Website Guidelines
 
 As per the [CNCF Website Guidelines](https://github.com/cncf/foundation/blob/master/website-guidelines.md):
 
@@ -25,3 +25,8 @@ As per the [CNCF Website Guidelines](https://github.com/cncf/foundation/blob/mas
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
 
+## Website Repository Setup
+
+- [ ] Code of Conduct
+- [ ] Guidelines for Contributors
+- [ ] License

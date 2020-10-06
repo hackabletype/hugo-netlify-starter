@@ -27,5 +27,5 @@ As per the [CNCF Website Guidelines](https://github.com/cncf/foundation/blob/mas
 ## Website Repository Setup
 
 - [ ] Code of Conduct
-- [ ] Guidelines for Contributors
+- [ ] Guidelines for Contributors (CONTRIBUTING.md or similar)
 - [ ] License file

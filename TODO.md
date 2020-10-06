@@ -24,7 +24,9 @@ As per the [CNCF Website Guidelines](https://github.com/cncf/foundation/blob/mas
   "Copyright The Linux Foundation. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/trademark-usage/) page."
 
 
-## Website Repository Setup
+## Contributing guidelines and conduct pages
+
+You must have the following files in the root of the repository:
 
 - [ ] Code of Conduct
 - [ ] Guidelines for Contributors (CONTRIBUTING.md or similar)

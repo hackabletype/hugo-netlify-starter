@@ -28,4 +28,4 @@ As per the [CNCF Website Guidelines](https://github.com/cncf/foundation/blob/mas
 
 - [ ] Code of Conduct
 - [ ] Guidelines for Contributors
-- [ ] License
+- [ ] License file

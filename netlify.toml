@@ -13,6 +13,6 @@ command = "make preview-build"
 
 [[redirects]]
   from = "/docs version=:version"
-  to = "/docs/:version"
+  to = "/archives/:version"
   status = 301
 

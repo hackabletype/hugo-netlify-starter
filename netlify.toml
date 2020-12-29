@@ -17,6 +17,7 @@ command = "make preview-build"
   status = 301
   force = true
 
+[[redirects]]
   from = "/docs"
   to = "/docs/current"
   status = 301

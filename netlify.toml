@@ -12,8 +12,8 @@ command = "make preview-build"
 command = "make preview-build"
 
 [[redirects]]
-  from = "/docs/ version=:version"
-  to = "/archives/:version/"
+  from = "/docs/*"
+  to = "/archives/:version"
   status = 301
   force = true
   query = {version = ":version"}

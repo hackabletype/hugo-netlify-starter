@@ -12,5 +12,5 @@ command = "make preview-build"
 command = "make preview-build"
 
 [[redirects]]
-  from = "/docs"
-  to = "/docs/current"
+  from = "/docs/"
+  to = "/docs/current/"

@@ -15,4 +15,5 @@ command = "make preview-build"
   from = "/docs version=:version"
   to = "/archives/:version"
   status = 301
+  force = true
 

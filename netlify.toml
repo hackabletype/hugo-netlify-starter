@@ -15,4 +15,9 @@ command = "make preview-build"
   from = /docs version=:version
   to = /docs/:version
   status = 301
+  force = true
 
+  from = "/docs"
+  to = "/docs/current"
+  status = 301
+  force = true

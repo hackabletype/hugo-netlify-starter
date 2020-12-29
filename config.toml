@@ -3,8 +3,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 enableGitInfo = true
 
-
-
 [caches]
  [caches.assets]
   dir = ":cacheDir/_gen"

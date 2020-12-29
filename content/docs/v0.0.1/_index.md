@@ -1,5 +1,5 @@
 ---
-title: "Sample Docs Index"
+title: "v0.0.1 Docs Index"
 description: "Index of the sample docs section"
 date: 2020-01-07T14:59:38+01:00
 toc: true

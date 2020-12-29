@@ -16,4 +16,5 @@ command = "make preview-build"
   to = "/archives/:version/"
   status = 301
   force = true
+  query = {version = ":version"}
 

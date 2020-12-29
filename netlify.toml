@@ -12,7 +12,7 @@ command = "make preview-build"
 command = "make preview-build"
 
 [[redirects]]
-  from = "/docs"
-  to = "/docs/current"
-  status = 302
-  force = true
+  from = /docs version=:version
+  to = /docs/:version
+  status = 301
+

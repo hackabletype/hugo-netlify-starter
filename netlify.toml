@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "make production-build && cp _redirects dist/_redirects"
+command = "make production-build"
 
 [build.environment]
 HUGO_VERSION = "0.75.1"
@@ -12,8 +12,8 @@ command = "make preview-build"
 command = "make preview-build"
 
 [[redirects]]
-  from = "/docs version=:version"
-  to = "/archives/:version"
+  from = "/docs/ version=:version"
+  to = "/archives/:version/"
   status = 301
   force = true
 
